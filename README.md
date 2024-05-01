@@ -1,2 +1,3 @@
 # hello-world
 This repository is for Code Louisville practice - Github
+Hello, my name is William Ashby. I will be turning 40 May 28th. I have a wonderful wife and two children. I was introduced to I.T. in 1999 at New Albany Senior High School and attended Prosser School of technology for Computer operations/networking. The years after highschool were spent on traveling the world on my BMX bike until 2007. I started employment between trips for BMX at Plumbers Supply Co in 2007 to current.  In 2010, my sponsorships were ended in cycling and I have been a life learner since, navigating many various roles at my current employment including all operational positions, sales positions , and currently as of last year ERP specialt in the I.T. department. 
